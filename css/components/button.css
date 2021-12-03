@@ -101,19 +101,19 @@ a:hover {
 	display: flex;
 }
 
-.btn-like i{
+.btn-like, i{
 	align-self: center;
 }
 
 
 /* CSS code for the Team Page */
 
-#team-cam a {
+#team-cam, a {
 	margin-top: 40px;
 }
 
 
-/* CSS code to inline the orannge buttons on the Search Page */
+/* CSS code to inline the orange buttons on the Search Page */
 
 .buttons-inline {
 	display: flex;
